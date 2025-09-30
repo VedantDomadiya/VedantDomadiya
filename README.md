@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Vedant Domadiya
 
-💻 **DevOps Engineer @ Electromech CloudTech Pvt Ltd**
-🎓 **B.Tech Computer Engineering Student**  
-📍 **Indus University, Ahmedabad**  
+💻 **DevOps Intern @ Electromech CloudTech Pvt Ltd**
+🎓 **ME Computer Engineering Student**  
+📍 **AIT, Ahmedabad**  
 ☁️ **Cloud Enthusiast**
 
 ---
