@@ -18,4 +18,4 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@VedantDomadiya"
           max_post_count: 5
-          template: "- [$title]($url) — *$date*"
+          template: "$newline- [$title]($url) — *$date*"
