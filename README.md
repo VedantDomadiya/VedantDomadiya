@@ -101,11 +101,10 @@ I'm a DevOps Engineer who lives at the intersection of **cloud, automation, and 
 
 <!-- BLOG-POST-LIST:START -->
 - [The Practical Linux Networking Playbook](https://medium.com/@VedantDomadiya/the-practical-linux-networking-playbook-ad5b7d118dc3?source=rss-b483f6f3c404------2) — *Tue Mar 10 2026 10:34 AM*
-- [How I Passed the KCNA (Kubernetes and Cloud Native Associate) Certification](https://medium.com/@VedantDomadiya/how-i-passed-the-kcna-kubernetes-and-cloud-native-associate-certification-b76ef8fed035?source=rss-b483f6f3c404------2) — *Mon Jan 26 2026 1:43 PM*
+- [How I Passed the KCNA &lpar;Kubernetes and Cloud Native Associate&rpar; Certification](https://medium.com/@VedantDomadiya/how-i-passed-the-kcna-kubernetes-and-cloud-native-associate-certification-b76ef8fed035?source=rss-b483f6f3c404------2) — *Mon Jan 26 2026 1:43 PM*
 - [Apache Kafka: From Setup to Real-World Projects](https://medium.com/@VedantDomadiya/apache-kafka-from-setup-to-real-world-projects-d13fc234df40?source=rss-b483f6f3c404------2) — *Mon Oct 27 2025 7:28 AM*
 - [Automating a 3-Tier Application Deployment with Ansible](https://medium.com/@VedantDomadiya/automating-a-3-tier-application-deployment-with-ansible-d8f4d93b293e?source=rss-b483f6f3c404------2) — *Tue Sep 30 2025 6:45 AM*
-- [Student Tech Leader Programs You Should Definitely Check Out!](https://medium.com/@VedantDomadiya/student-tech-leader-programs-you-should-definitely-check-out-1feebf35ba83?source=rss-b483f6f3c404------2) — *Thu Jun 19 2025 7:52 PM*
-<!-- BLOG-POST-LIST:END -->
+- [Student Tech Leader Programs You Should Definitely Check Out!](https://medium.com/@VedantDomadiya/student-tech-leader-programs-you-should-definitely-check-out-1feebf35ba83?source=rss-b483f6f3c404------2) — *Thu Jun 19 2025 7:52 PM*<!-- BLOG-POST-LIST:END -->
 
 ➡️ Read more on [Medium](https://medium.com/@VedantDomadiya)
 
