@@ -1,74 +1,155 @@
-# 👋 Hi, I'm Vedant Domadiya
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00ADD8&center=true&vCenter=true&width=620&height=70&lines=Hi%2C+I'm+Vedant+Domadiya+%F0%9F%91%8B;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Community+Organizer+%F0%9F%8C%90" alt="Typing SVG" />
+</h1>
 
-💻 **DevOps Intern @ Electromech CloudTech Pvt Ltd**
-🎓 **ME Computer Engineering Student**  
-📍 **AIT, Ahmedabad**  
-☁️ **Cloud Enthusiast**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VedantDomadiya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://linkedin.com/in/VedantDomadiya"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@VedantDomadiya"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:vedantdomadiya1809@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  💻 <b>DevOps Engineer</b> @ <b>Electromech CloudTech Pvt Ltd</b> &nbsp;•&nbsp; 📍 Ahmedabad, India
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am a final-year Computer Engineering student with a deep passion for cloud technologies, community-driven learning, and bridging the gap between academic knowledge and industry-ready skills. I am actively involved in tech communities and leadership roles on my campus and beyond.
+I'm a DevOps Engineer who lives at the intersection of **cloud, automation, and community**. My day-to-day revolves around building reliable, scalable infrastructure — and outside of work I help run several tech communities across **Ahmedabad** and **Gandhinagar**, organizing meetups and mentoring folks who are getting started in cloud and DevOps.
+
+- 🔭 Currently shipping **observability** and **infrastructure automation** at Electromech CloudTech
+- 🌱 Sharpening my edge in **Kubernetes**, **SRE**, and **platform engineering**
+- 🤝 Open to collaborate on **DevOps / cloud-native / open-source** projects
+- ⚡ Fun fact: I've mentored **4000+** learners through the Google Cloud Arcade program
 
 ---
 
 ## 🌟 Certifications
 
-- **Google Cloud Certified** - Associate Cloud Engineer
-- **AWS Certified** - Cloud Practitioner
-- **Azure Certified** - Azure Fundamentals
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNCF-KCNA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
 ---
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VedantDomadiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VedantDomadiya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantDomadiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 💻 Tech Stack
+
+**☁️ Cloud & DevOps**
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,nginx,linux,bash" /></a>
+</p>
+
+**🧠 Languages**
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=go,java,python,js,c,cpp,cs,dotnet,html" /></a>
+</p>
+
+**🗄️ Databases & Tools**
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,dynamodb,mariadb,maven,git,github,bitbucket,vercel,figma" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VedantDomadiya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=VedantDomadiya&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantDomadiya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantDomadiya&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VedantDomadiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+---
+
+## 🚧 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/VedantDomadiya/Packer-Ansible-Terraform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VedantDomadiya&repo=Packer-Ansible-Terraform&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/VedantDomadiya/Multi-State-Server-Monitoring-Implementation-Guide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VedantDomadiya&repo=Multi-State-Server-Monitoring-Implementation-Guide&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/VedantDomadiya/cloud-native-auto-healing-monitoring-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VedantDomadiya&repo=cloud-native-auto-healing-monitoring-system&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/VedantDomadiya/Krishna_AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VedantDomadiya&repo=Krishna_AI&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ Read more on [Medium](https://medium.com/@VedantDomadiya)
 
 ---
 
 ## 🏆 Achievements
 
-- **Google Cloud Arcade Facilitator 2024 & 2025**  
-  Mentored **4000+ students and professionals** in building Google Cloud skills through hands-on labs and interactive learning experiences.
-  
-- **Technical Head & Coding Club Lead** at Indus University  
-  Leading the Coding Club and helping students improve their technical skills through workshops and peer-learning sessions.
-  
-- **Postman Student Leader** & **AWS Student Club Lead**  
-  Actively organizing and hosting events, workshops, and community activities to spread awareness and knowledge about cloud computing and software tools.
+- **Google Cloud Arcade Facilitator — 2024 & 2025**  
+  Mentored **4000+ learners** in Google Cloud through hands-on labs and interactive sessions.
+- **Postman Student Leader**  
+  Running events and workshops on API development, testing, and developer tooling.
 
 ---
 
-## 🌐 Community Engagement
+## 🌐 Community Involvement
 
-- Engaged in multiple tech communities across Ahmedabad, where I collaborate, mentor, and share knowledge.
-- Passionate about **cloud computing** and continuously pursuing advanced certifications to enhance my expertise.
+Core team member across several tech communities in **Ahmedabad (AHM)** and **Gandhinagar (GNR)** — organizing meetups, running workshops, and mentoring newcomers in cloud, DevOps, and open source.
+
+| Community | Region | Role |
+|---|---|---|
+| 🟧 **AWS User Group** | Ahmedabad | Core Team |
+| ☸️ **Cloud Native Community Group (CNCG)** | Ahmedabad & Gandhinagar | Core Team |
+| 🐳 **Docker Community** | Ahmedabad & Gandhinagar | Core Team |
+| 🟦 **WordPress** | Ahmedabad | Core Team |
+| 🌍 **Open Source Weekend** | — | Core Team |
+| 🧠 **AI Camp** | Ahmedabad | Core Team |
 
 ---
 
-## 🎯 Goals
+## 🐍 Contribution Snake
 
-- 🌱 Keep learning and sharing knowledge on cloud technologies.
-- 🏅 Earn advanced certifications in cloud computing to stay industry-ready.
-- 💼 Contribute to tech communities by helping students and professionals navigate their cloud journeys.
-
----
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantdomadiya/vedantdomadiya/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantdomadiya/vedantdomadiya/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vedantdomadiya/vedantdomadiya/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VedantDomadiya/VedantDomadiya/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VedantDomadiya/VedantDomadiya/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/VedantDomadiya/VedantDomadiya/output/github-snake.svg">
 </picture>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
----
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedant_domadiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VedantDomadiya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@VedantDomadiya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VedantDomadiya) 
 ---
 
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://linkedin.com/in/VedantDomadiya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@VedantDomadiya"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://x.com/VedantDomadiya"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://instagram.com/vedant_domadiya"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:vedantdomadiya1809@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><i>Thanks for visiting! Feel free to reach out for collaboration — or just a chat about DevOps, cloud, and community. 🚀</i></p>
